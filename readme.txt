@@ -1,2 +1,2 @@
 insert image into readme file
-![demo-image](http://solutionoptimist.com/cdn/demosOnGitHub/AddImage_1)
+![image](https://assets-cdn.github.com/images/modules/logos_page/Octocat.png)
